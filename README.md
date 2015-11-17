@@ -4,7 +4,7 @@ This list contains the link to the source and the name of the author of every op
 
 ## Modules
 
-| Module        | Developer | Fork version (.xml) | Link to sourcecode |
+| Module        | Developer | Fork version | Link to sourcecode |
 | -------------------|------------------|-----------------------|---------------------------------|
 | Dealer         | Wijs | 3.5 | [Github](https://github.com/wijs/fork-cms-module-dealer) |
 |Visitors | Wijs | 3.4 | [Github](https://github.com/wijs/fork-cms-module-visitors) |
@@ -48,6 +48,8 @@ This list contains the link to the source and the name of the author of every op
 |Twitter|Sumocoders|3.7|[Github](https://github.com/sumocoders/fork-twitter)|
 |Team|WouterSioen| ?|[Github](https://github.com/WouterSioen/fork-module-team)|
 |Form-builder-mailer|Bart webleads|3.7.4|[Github](https://github.com/bart-webleads/form-builder-mailer)|
+
+**Note: ** Versions are taken from the info.xml but lot's of them **do not stroke** with the real working version.
 
 
 
