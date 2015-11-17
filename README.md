@@ -66,7 +66,7 @@ This list contains the link to the source and the name of the author of every op
 |Response2|wijs|3.0|[Github](https://github.com/wijs/fork-cms-theme-response2)|
 |Opengray|wijs|3.7|[Github](https://github.com/forkcms/theme-opengray)|
 
-**Note: ** Versions are taken from the info.xml but lot's of them **do not stroke** with the real working version.
+**Note:** Versions are taken from the info.xml but lot's of them **do not stroke** with the real working version.
 
 
 
