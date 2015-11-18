@@ -34,7 +34,7 @@ This list contains the link to the source and the name of the author of every op
 |Opening hours|Megasnort|3.7|[Github](https://github.com/megasnort/fork-cms-module-opening-hours)|
 |Discography|Jessedobbelaere|3.7|[Github](https://github.com/jessedobbelaere/fork-cms-module-discography)|
 |Menu|jessedobbelaere| ? | [Github](https://github.com/jessedobbelaere/fork-cms-module-menu)|
-|Modulemaker|Woutersioen|3.7|[Github](https://github.com/WouterSioen/moduleMaker)|
+|Modulemaker|Woutersioen|3.6 - 3.9|[Github](https://github.com/WouterSioen/moduleMaker)|
 |Instagram|Jessedobbelaere|3.0|[Github](https://github.com/jessedobbelaere/fork-cms-module-instagram)|
 |Backgrounds|Jessedobbelaere|?|[Github](https://github.com/jessedobbelaere/fork-cms-module-backgrounds)|
 |Detailing|Siesqo|3.6|[Github](https://github.com/siesqo/fork-cms-module-detailing)|
