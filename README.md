@@ -28,7 +28,7 @@ This list contains the link to the source and the name of the author of every op
 |Photogallery|freshface|3.0|[Github](https://github.com/freshface/Fork-CMS-Extensions)|
 |Agenda|TimVanWolfswinkel|3.7.1|[Github](https://github.com/timvanwolfswinkel/fork-cms-module-agenda)|
 |Compression|Jessedobbelaere|3.7|[Github](https://github.com/jessedobbelaere/fork-cms-module-compression)|
-|Slideshow|iKoene|3.7|[Github](https://github.com/jessedobbelaere/fork-cms-module-compression)|
+|Slideshow|iKoene|3.7|[Github](https://github.com/ikoene/fork-cms-module-slideshow)|
 |Projects|Bartdc|3.7|[Github](https://github.com/bartdc/Projects---Fork-CMS-module)|
 |Elo rating|Megasnort|3.7|[Github](https://github.com/bartdc/Projects---Fork-CMS-module)|
 |Opening hours|Megasnort|3.7|[Github](https://github.com/megasnort/fork-cms-module-opening-hours)|
