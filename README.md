@@ -46,7 +46,7 @@ This list contains the link to the source and the name of the author of every op
 |Guestbook|Jelmer Snoeck|3.5|[Github](https://github.com/nstCactus/module-guestbook)|
 |Navigationblock|Bart-webleads|3.7|[Github](https://github.com/bart-webleads/navigation-block)|
 |Twitter|Sumocoders|3.7|[Github](https://github.com/sumocoders/fork-twitter)|
-|Team|WouterSioen| ?|[Github](https://github.com/WouterSioen/fork-module-team)|
+|Team|WouterSioen| ?|[Github](https://github.com/WouterSioen/fork-cms-module-team)|
 |Form-builder-mailer|Bart webleads|3.7.4|[Github](https://github.com/bart-webleads/form-builder-mailer)|
 
 ## Themes
